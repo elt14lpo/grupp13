@@ -20,7 +20,7 @@ polyfit(temp, speed1, 1)
 
 %Values from
 %http://www.sengpielaudio.com/calculator-airpressure.htm 
-%at 20? and 101,325 kPa
+%at 20deg C and 101,325 kPa
 
 hum = [0 10 20 30 40 50 60 70 80 90 100];
 speed2 = [343.36 343.49 343.61 343.74 343.87 343.99 344.12 344.24 344.37 344.49 344.62];
