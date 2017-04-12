@@ -14,9 +14,6 @@ Med några små ändringar går det att kompilera i Nucleo, finns även på mbed
 
 Kanske lättast att skriva/testa i skolans linux datorer, sedan föra över fungerande kod till Nucleo?
 
-All teori finns i följande länkar, jag följde länken som Klara klistrade i Anslagstavlan, hittade massa bra grejor, även en algoritm för att beräkna Time Delay (utan FFT :-)
-Dropbox paper strejkar när jag försöker klistra in länkarna o det är sent o  jag pallar inte fixa det nu så det får ligga här, nån annan får föra över det till Paper.
-
 Bra beskrivning av time delay, med läsbar C++ källkod:
 http://birota.azurewebsites.net/algorithms-for-time-delay-calculation/
 Biblioteket finns här:
