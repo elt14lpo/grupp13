@@ -10,3 +10,6 @@ plot(x, chanel0, 'r-')
 hold on
 plot(x, chanel1, 'b-')
 grid on
+
+ylabel('Voltage output from microphone')
+xlabel('Samples')
